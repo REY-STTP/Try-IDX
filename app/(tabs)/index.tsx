@@ -10,11 +10,11 @@ const App = () => {
         justifyContent: 'center',
         alignItems: 'center',
       }}>
-        <Text>Ini Milik Saya</Text>
+        <Text>Ini Milik Kita</Text>
         <Text>Yang Ga suka Pasti Hitler</Text>
         <Image
           source={{
-            uri: 'https://imgur.com/t/nino_nakano',
+            uri: 'https://avatars.githubusercontent.com/u/86215416?v=4',
           }}
           style={{
             width: 200,
@@ -32,7 +32,7 @@ const App = () => {
           padding: 10,
           margin: 5,
         }}
-        defaultValue="ara araa"
+        defaultValue="Raja Iblis"
       />
     </ScrollView>
   );
